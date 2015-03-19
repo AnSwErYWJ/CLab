@@ -7,3 +7,4 @@ swap.c:swap two numbers.
 check_odd_even.c:check the integer is odd or even.
 factorial.c:display factorial of an integer if user enters non-negative integer.
 leap_year.c:check whether a year is leap year.
+fabonacci.c:displaying Fibonacci sequence up to nth term where n is entered by user.
