@@ -9,3 +9,4 @@ factorial.c:display factorial of an integer if user enters non-negative integer.
 leap_year.c:check whether a year is leap year.
 fabonacci.c:displaying Fibonacci sequence up to nth term where n is entered by user.
 palindrome.c:check whether a number is palindrome or not.
+prime.c:check whether a number is prime or not.
