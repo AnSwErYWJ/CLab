@@ -11,3 +11,4 @@ fabonacci.c:displaying Fibonacci sequence up to nth term where n is entered by u
 palindrome.c:check whether a number is palindrome or not.
 prime.c:check whether a number is prime or not.
 calculator.c:a simple integer calculator.
+pyramid.c:print a pyramid.
