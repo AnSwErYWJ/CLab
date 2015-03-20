@@ -12,3 +12,4 @@ palindrome.c:check whether a number is palindrome or not.
 prime.c:check whether a number is prime or not.
 calculator.c:a simple integer calculator.
 pyramid.c:print a pyramid.
+matrix_transpose.c:转置矩阵。
