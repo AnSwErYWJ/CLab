@@ -16,3 +16,4 @@ matrix_transpose.c:转置矩阵。
 sum_of_primes.c:检查一个数能不能表示成两个质数之和。
 reverse_sentence.c:reverse a sentence.
 binary_decimal.c:convert either binary to decimal or decimal to binary.
+data_in_ptr.c:指针中隐藏数据.
