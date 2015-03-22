@@ -1,5 +1,5 @@
-# CLab 
-mathtest.c:这是一个小学四则选算出题器，一次输出20道100以内的四则运算。
+Sheet:
+mathtest.c:这是一个小学四则选算出题器，一次输出20道100以内的四则运算.
 CHtoASCII.c:find ASCII value of a character entered by user.
 division.c:compute remainder and quotient.
 sizeof.c:computes the size of variable using sizeof operator.
@@ -13,7 +13,7 @@ prime.c:check whether a number is prime or not.
 calculator.c:a simple integer calculator.
 pyramid.c:print a pyramid.
 matrix_transpose.c:转置矩阵。
-sum_of_primes.c:检查一个数能不能表示成两个质数之和。
+sum_of_primes.c:检查一个数能不能表示成两个质数之和.
 reverse_sentence.c:reverse a sentence.
 binary_decimal.c:convert either binary to decimal or decimal to binary.
 data_in_ptr.c:指针中隐藏数据.
