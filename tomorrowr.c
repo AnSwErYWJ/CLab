@@ -14,7 +14,7 @@ typedef struct date
 
 void nextDay(char *test)
 {
-    struct tm time,*tm_ptr;
+    struct tm time,*tm_ptr;//tm结构体
     time_t seconds;
     Date myDate;
     char *p;
