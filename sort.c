@@ -1,8 +1,8 @@
 #include<stdio.h>
 #define MAX 100
-void selection(int num[],int n);//选择排序
-void insertion(int num[],int n);//插入排序
-void bubble(int num[],int n);//冒泡排序
+void selection(int num[],int n);//选择排序。
+void insertion(int num[],int n);//插入排序。
+void bubble(int num[],int n);//冒泡排序。
 int main()
 {
     int n,num[MAX],i=0,d;
