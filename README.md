@@ -20,4 +20,5 @@ data_in_ptr.c:指针中隐藏数据.
 tomorrowr.c:打印明天日期.
 sort.c:three sortion methods. 
 select_sort.c：选择排序算法.
-bubble_sort.c：冒泡排序。
+bubble_sort.c：冒泡排序.
+getcahr_scanf.c:getchar（）和scanf（）混合使用关于'\n'的解决方法.
