@@ -23,3 +23,4 @@ select_sort.c：选择排序算法.
 bubble_sort.c：冒泡排序.
 getcahr_scanf.c:getchar（）和scanf（）混合使用关于'\n'的解决方法.
 insert_sort.c:插入排序.
+GetTickCount.c：获取系统时间.
