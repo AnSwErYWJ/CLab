@@ -12,5 +12,5 @@ int main()
     printf("Please enter the integer you want to check(q to quit):");
   }
   printf("Bye!\n");
-  return 0;
+  return 0; 
 }
