@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 /*参考斐波那契原理，利用递归*/
 int calcownum1(int years)
 {
