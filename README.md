@@ -30,4 +30,5 @@ chicken.c:百钱买百鸡问题.
 count_word.c:统计单词个数.
 rand_example.c：产生0到10的随机数.
 calloc.c：动态分配数组内存.
+cow.c:奶牛生子问题.
   
