@@ -1,5 +1,7 @@
 #include<stdio.h>
+
 #define MAX 1024
+
 int main()
 {
     int F[MAX]= {0};
