@@ -35,3 +35,4 @@ power.c:显示并求2的N次方.
 factorial_v2.c：迭代和递归求阶乘.
 printf_ASCII.c:打印ASCII码和字符.
 prime_new.c：判断一个数是否为素数，如果是并打印真因子。
+Macro.c：C的几个预定义宏.
