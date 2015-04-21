@@ -37,3 +37,4 @@ printf_ASCII.c:打印ASCII码和字符.
 prime_new.c：判断一个数是否为素数，如果是并打印真因子。
 Macro.c：C的几个预定义宏.
 game.c:猜拳游戏.
+count.c:输入一行数据并计算它的长度；输入空行结束程序
