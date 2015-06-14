@@ -15,6 +15,7 @@ int main(void)
     printf("Time : %s\n", __TIME__);
     printf("File : %s\n", __FILE__);
     printf("Line : %d\n", __LINE__);
+    printf("Function:%s\n",__func__);
     printf("Enter 1 or 0 : ");
     scanf("%d", &answer);
 
