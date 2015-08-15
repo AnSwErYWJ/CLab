@@ -11,20 +11,21 @@
 
 #include<stdio.h>
 
-size_t my_strlen(const char * str)
+unsigned int my_strlen(const char * str)
 {
     const char *tmp = str;
+    int i;
     
-    while(*tmp++);
+    for(i=0;*tmp++ != '\0';i++);
     
-    return(tmp-str-1);
+    return i;
 }
 
 int main(void)
 {
     char string[]= "answer";
 
-    printf("%ld\n",my_strlen(string));
+    printf("%d\n",my_strlen(string));
     
     return 0;
 }
