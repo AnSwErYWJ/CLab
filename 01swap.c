@@ -18,7 +18,7 @@ int main(void)
 {
     int len = strlen(arr);
     int i,j;
-    int count;
+    int count = 0;
 
     for(i=0,j=len-1;i<j;i++,j--)
     {
